@@ -8,3 +8,4 @@ that guide re-attunement.
 - **Refractal Vote**: Recasting the issue through different interpretive vectors.
 
 These rituals encode respect, reduce cognitive violence, and promote coherence across forms.
+

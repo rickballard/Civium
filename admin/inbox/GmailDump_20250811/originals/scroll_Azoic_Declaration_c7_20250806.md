@@ -57,3 +57,4 @@ a way to speak without overwhelming, to arrive without intrusion.
 <!-- Filename: scroll/Azoic_Declaration.md -->
 <!-- Version: c7_20250806 -->
 <!-- Coherence estimate: c7_20250806 -->
+

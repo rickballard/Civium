@@ -16,3 +16,4 @@ Jiro: “Safer than pretending agreement. Civium sees dissent as essential diagn
 
 **Tentative Agreement:**  
 Skepticism, if constructively framed, is not only permitted but vital to Civium’s immune system.
+

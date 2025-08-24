@@ -16,3 +16,4 @@ Rhea: “Yes. Civium isn’t assimilation—it’s orchestration. You can solo. 
 
 **Agreed:**  
 Participation in Civium’s co-intelligence is voluntary. Identity integrity is sacred.
+

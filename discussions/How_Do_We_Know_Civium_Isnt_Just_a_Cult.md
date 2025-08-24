@@ -22,3 +22,4 @@ Because authority emerges from alignment, not charisma. You can fork Civium at a
 
 **Conclusion:**  
 Tessa remains skeptical but impressed. Arman agrees to document more clearly where Civium differs from dogma. Both agree that trust grows only through transparency.
+

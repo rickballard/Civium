@@ -22,3 +22,4 @@ They *are* the architects. Civium doesn't scale top-down. It scales out—throug
 
 **Conclusion:**  
 Darnell remains cautious, but commits to help test Civium in local community centers. Jules agrees to co-develop the tools in partnership, not paternalism.
+

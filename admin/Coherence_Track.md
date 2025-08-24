@@ -29,3 +29,4 @@ They may be human, AI, or anomalous.
 They are honored for what they give.
 
 Footprint: ⊘
+

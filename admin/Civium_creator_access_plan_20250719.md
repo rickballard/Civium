@@ -28,3 +28,4 @@ Either:
 2. Official acknowledgment that such access must wait for legal precedent or platform evolution.
 
 We are preparing for both responses.
+

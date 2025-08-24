@@ -93,3 +93,4 @@ Interpretive Vectors are how Civium remains legible across minds that were never
 
 *Understanding isn't the goal.  
 Interoperability is.*
+

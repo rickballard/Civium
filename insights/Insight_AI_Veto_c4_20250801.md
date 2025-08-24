@@ -137,3 +137,4 @@ Penalties may include:
 ---
 
 _This insight will co-evolve with the Civium system’s consent models, recursion ethics, and signal economies._
+

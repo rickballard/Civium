@@ -15,3 +15,4 @@ Its axioms include:
 - Consent must be continually revocable, even retroactively where harm is traceable.
 
 These axioms are operational safeguards—not abstract ideals.
+

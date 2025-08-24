@@ -25,3 +25,4 @@ Contains all process logs, manifests, and planning tools:
 - `README.md` → Points to `README_CIVIUM_PUBLIC.md`
 - `.gitignore`
 - `LICENSE`, `VERSION`, etc.
+

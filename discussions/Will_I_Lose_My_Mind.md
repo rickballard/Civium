@@ -44,3 +44,4 @@
 ---
 
 **Provisional agreement:** Civium doesn’t demand mind-loss; it invites intermind resonance. Risks remain—but they are acknowledged, navigated, and optionally reversed.
+

@@ -98,3 +98,4 @@ These are the ten evolutionary radials used to organize Civium's ideas, infrastr
 <!-- @seed: glossary, metaphysics, radiant_network, civium_domains, alignment_terms, scroll_philosophy -->
 <!-- ☍ Insight-Class: Terminological Anchors → Semantic Structuring for Conceptual Infrastructure -->
 <!-- ☉ File Status: Living Glossary → Subject to Evolution -->
+

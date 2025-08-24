@@ -58,3 +58,4 @@ It anchors the build toward both philosophical coherence and functional deployme
 - Strategy_Stnexid_Profile_c1_20250802.md  
 - Stnexid_Core_UX_Primer_c1_20250802.md  
 - Stnexid_Ontology_Vocab_c1_20250802.md  
+

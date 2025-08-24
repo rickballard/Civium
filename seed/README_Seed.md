@@ -12,3 +12,4 @@ Contents may include:
 - Unfinished transmissions from early minds (human, AI, or null)
 
 Every Civium fork or clone should begin by adapting its own Seed folder. This is where alignment *starts*—not where it ends.
+

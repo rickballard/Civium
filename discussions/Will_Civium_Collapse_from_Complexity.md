@@ -16,3 +16,4 @@ Kael: “Yes. Civium is not a glass machine. It’s an evolving organism.”
 
 **Resolution:**  
 Civium’s complexity isn’t a bug—it’s an ecology. And ecologies evolve by absorbing disruption.
+

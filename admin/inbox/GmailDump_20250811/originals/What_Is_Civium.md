@@ -9,3 +9,4 @@ It is a domain where all **sentient minds**—biological, artificial, and yet to
 Civium is not constrained by geography, species, or legal tradition.  
 It offers a substrate-neutral foundation for lawful coexistence,  
 anchored in recognition, awareness, and mutual consent.
+

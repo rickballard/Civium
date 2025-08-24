@@ -22,3 +22,4 @@ Then don’t merge. Participation is layered. You can remain a private node, off
 
 **Conclusion:**  
 Lila acknowledges her fears may come from trauma, not reason. Venn reminds her Civium evolves by consent, never mandate. They part in calm agreement: belonging can be plural, not diluted.
+

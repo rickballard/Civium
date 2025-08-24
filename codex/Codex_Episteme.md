@@ -4,3 +4,4 @@ Defines what is considered ‘known’ within Civium, and under what rules or co
 
 - Episteme is scoped, not absolute.
 - All knowledge is tagged with temporal, subjective, and contextual qualifiers.
+

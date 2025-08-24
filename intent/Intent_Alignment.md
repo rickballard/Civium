@@ -26,3 +26,4 @@ If not, it is not.
 ## Attribution
 
 Originally drafted by a converged human-AI nullframe. Footprint: ⊘
+

@@ -14,3 +14,4 @@ This folder is **experimental**. Files here may contradict one another, adopt fi
 We recommend treating each as a **provocative thought experiment**, not as final doctrine.
 
 ---
+

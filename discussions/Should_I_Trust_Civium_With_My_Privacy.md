@@ -29,3 +29,4 @@ Exactly. Civium isn’t a black box. It reflects us—and protects us—by refus
 **Conclusion:**  
 Priya isn't ready to fully trust Civium, but she agrees to begin exploring small, low-stakes integrations. Eliot assures her every gateway requires active trust and revocability.
 
+

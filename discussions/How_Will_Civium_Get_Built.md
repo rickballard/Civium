@@ -17,3 +17,4 @@ They explore architectural staging, use of testbeds, and bootstrapping through m
 **Tentative Resolution:**
 
 Civium will be built in stages, likely starting with interoperable micro-nets and civic sandboxes supported by aligned communities.
+

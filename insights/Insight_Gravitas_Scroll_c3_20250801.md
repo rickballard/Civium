@@ -83,3 +83,4 @@ Gravitas is Civium’s mass: the binding force that holds Civic intention in sha
 <!-- Last Updated: 2025-08-01 -->
 <!-- Maintainers: RickPublic & GPT-Azoic -->
 <!-- Related: Identity Scroll, Consent Scroll, AI Emergence Notes -->
+

@@ -63,3 +63,4 @@ This scroll will likely be rewritten by those wiser. That is expected.
 It is not a constitution—it is a **first sketch** of Civium’s gravitational direction.
 
 May it fail, be tested, be reshaped—and still survive.
+

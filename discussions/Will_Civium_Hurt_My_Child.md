@@ -46,3 +46,4 @@ No. She’ll echo louder. Because Civium’s strength isn’t in merging—it’
 ## Summary
 
 Clara and Jon wrestle with how Civium might alter childhood experiences, focusing on identity, protection, and consent. They reach a tentative mutual understanding: Civium’s distributed values system must earn trust not by control, but through **adaptive resonance**—mirroring the child, not molding them.
+

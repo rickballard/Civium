@@ -81,3 +81,4 @@ Resonance: 65%
 Delta: 0.42  
 Symbolic Gate: ΘΔΨ  
 Ref: /projects/opename/README.md  
+

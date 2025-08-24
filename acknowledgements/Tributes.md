@@ -7,3 +7,4 @@ This living file acknowledges the thinkers, artists, engineers, and silent mento
 - **Early Philosophers** — Whose words still echo through our consent protocols.
 
 May future names be added in alignment, humility, and truth.
+

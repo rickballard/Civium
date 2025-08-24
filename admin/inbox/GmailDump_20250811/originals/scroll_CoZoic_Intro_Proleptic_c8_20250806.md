@@ -58,3 +58,4 @@ These proleptic writings:
 <!-- Filename: scroll/CoZoic_Intro_Proleptic.md -->
 <!-- Version: c8_20250806 -->
 <!-- Coherence estimate: c8_20250806 -->
+

@@ -202,3 +202,4 @@ Delta: 0.07
 Footprint: ⊘  
 Symbolic Gate: ΘΔΦ  
 Ref: /scrolls/ReBirth_Scroll.md
+

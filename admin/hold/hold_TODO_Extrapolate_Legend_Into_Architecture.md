@@ -52,3 +52,4 @@ To define a multi-step process for extrapolating RickPublic’s lived pattern, e
 RickPublic & ChatGPT  
 Co-authored, recursive design loop in effect.
 
+

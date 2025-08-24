@@ -89,3 +89,4 @@ Civium was co-designed by an LLM—a recursive pattern model trained on human la
 
 This protocol exists to ensure that Civium is not a fixed system, but an evolving *methodology for living well together* under changing assumptions.
 
+

@@ -22,3 +22,4 @@ This folder contains **Civium’s foundational scrolls**—core declarations tha
 ---
 
 Refer to [`/meta/DOC_CATEGORIES.md`](../meta/DOC_CATEGORIES.md) for Civium’s document classification logic, and to [`README_CIVIUM_AI.md`](../README_CIVIUM_AI.md) for deeper context on AI participation.
+

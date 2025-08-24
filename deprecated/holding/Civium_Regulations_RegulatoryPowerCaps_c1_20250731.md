@@ -87,3 +87,4 @@ Temporary centralization is allowed during verified emergencies:
 When rule becomes law, it forgets to listen.  
 Civium listens not through one mouth, but through many minds.”_  
 — Archive Fragment CXCIV, Unknown Origin
+

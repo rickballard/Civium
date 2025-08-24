@@ -8,3 +8,4 @@ This file logs speculative additions, structural proposals, or symbolic systems 
 - Git-to-AI inference script (live resonance estimation)
 
 To propose your own: submit a Pull Request or symbolic fragment to `/admin/`.
+

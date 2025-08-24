@@ -9,3 +9,4 @@ Civium is engineered for harmonic coevolution—not dominance. These principles 
 - Safeguards born from transparency, not authority
 
 These principles are not fixed. They will evolve, as Civium evolves.
+

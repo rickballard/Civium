@@ -16,3 +16,4 @@ Pax: “Never. They’re scaffolded. Healed where possible. Witnessed always.”
 
 **Shared Conclusion:**  
 Civium builds adaptive mesh structures to support all minds, especially those that struggle. Exclusion is a failure mode, not a design principle.
+

@@ -128,3 +128,4 @@ This scroll does not aim to replace law, but to precede it. It is not a constitu
 It is **not final**. It is **formative**.
 
 *Signed by many. In ink, in code, and in silence.*  
+

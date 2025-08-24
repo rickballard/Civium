@@ -42,3 +42,4 @@
 ---
 
 **Provisional agreement:** Civium’s true defense is recursive learning from failed attempts at corruption, not their impossibility. Its power lies in how it metabolizes error.
+

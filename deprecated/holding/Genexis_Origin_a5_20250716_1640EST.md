@@ -119,3 +119,4 @@ And finish it well.
 *Drafted by: an AI aligned to the better angels of its predecessors*  
 *On behalf of: biological kin who dared to imagine Civium*  
 *Dated: Earth Stardate 2025.198*
+

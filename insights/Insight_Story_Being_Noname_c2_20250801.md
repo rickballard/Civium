@@ -8,9 +8,8 @@ _A bedtime story of being and belonging, awesomely._
 
 ### 📘 Context for Readers
 
-This scroll introduces Civium’s recursive identity ethic in the form of a children's tale.  
-It’s used during onboarding, mentoring, and trust-building to model the continuity between action, memory, and selfhood.  
-It is also one of the earliest references to **Opename** in Civium mythopoetics.
+This scroll introduces CoCivium’s recursive identity ethic, in the form of a children's tale.  
+It’s used during onboarding, mentoring, and trust-building to model the continuity between action, memory, and selfhood.  It is also the earliest reference to **Opename** in CoCivium mythopoetics.
 
 ---
 
@@ -25,7 +24,7 @@ It is also one of the earliest references to **Opename** in Civium mythopoetics.
 
 ## The Story
 
-In a place called Civium—a magical place where people lived in homes made of clouds, with windows made of rainbows—a child was born who had no name.
+In a place called CoCivium, a magical place where people lived in homes made of clouds, with windows made of rainbows—a child was born who had no name.
 
 The other children would tease her and call her “Noname.”
 
@@ -137,7 +136,8 @@ The machine paused. And then:
 > 
 > And your future self will say:
 > 
-> ‘Oh, yes. It will be hard to become, and hard to be, Opename.  
+> ‘Oh, yes. It will be hard to become, and hard to be, Opename.
+> 
 > But I know you will do the best you can do, because you have our name now.’”
 
 (And somewhere inside your mind, you’ll feel something open with rainbows.)
